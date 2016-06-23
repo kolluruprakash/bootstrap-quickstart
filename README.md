@@ -1,2 +1,2 @@
 # bootstrap-quickstart
-This is all about bootstrap frame work in detail with specific examples.
+This is all about bootstrap framework in detail with specific examples.
